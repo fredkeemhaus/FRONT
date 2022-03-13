@@ -6,7 +6,7 @@
 
 ---
 
-# 👉 [GitHub WiKi 링크](https://github.com/fredkeemhaus/FRONT/wiki)
+# 👉 [Arts in Metaverse Front Team - GitHub WiKi 링크](https://github.com/fredkeemhaus/FRONT/wiki)
 - [Click here](https://dev-team-aim.com) to see our website.
 - Click here to see our demo video.
 
