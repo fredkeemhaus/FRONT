@@ -6,6 +6,10 @@
 
 ---
 
+# 👉 [GitHub WiKi 링크](https://github.com/fredkeemhaus/FRONT/wiki)
+- [Click here](https://dev-team-aim.com) to see our website.
+- Click here to see our demo video.
+
 # 📝 주제 선정 배경
 - Arts in Metaverse(AiM)에 대해 간단히 설명드리자면, “메타버스 내에서 전시공간을 경험할 수 있도록 만들자”라는 생각에서 나온 서비스입니다. 코로나로 다수의 인원이 한 공간에서 만나는 것이 어려워졌고, 시공간적 제한이 많은 전시공간은 전시할 기회조차 많이 사라졌습니다. 위기를 기회로 많은 전시공간들이 웹 상에서 이루어지고 있는데, 그 변화에 발맞춰 메타버스 내에 전시공간을 만들고자 하였습니다.
 ---
